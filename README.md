@@ -1,0 +1,2 @@
+# normal-merge
+git practice
